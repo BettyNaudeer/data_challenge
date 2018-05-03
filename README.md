@@ -2,10 +2,10 @@
 
 #### 1. Clone the service
 
-#### setup development environment
+#### 2. Setup development environment
 Run `source ./bin/setup_dev`
 
-#### 4. Run it!!!
+#### 3. Run it!!!
 Will need to be in virtual env before running the run command.
 
 Run with `./bin/run`
